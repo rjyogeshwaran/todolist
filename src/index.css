@@ -1,0 +1,72 @@
+.row{
+  display: inline-block;
+  width: 100%;
+  height: 70%px;
+  margin: 10px;
+}
+
+.box1{
+ display: inline-block;
+ width: 35%;
+ margin :10px;
+ height: 50px;
+ border: 2px rgba(185, 255, 185, 0.528) solid; 
+}
+.add{
+  display: inline-block;
+  width: 200px;
+  height: 50px;
+  margin-left: 60px;
+  background-color: rgb(0, 88, 239) ;
+  color: black;
+}
+.box{
+  margin-left: 40px;
+}
+.title{
+  text-align: center;
+  font-size: 50px;
+  color: rgba(2, 127, 2, 0.672);
+}
+.sub-title{
+  font-size: 30px;
+  margin-left: 40px;
+  font-weight: 600;
+  display:inline-block ;
+}
+.card{
+  height: fit-content;
+  width: 350px;
+  padding: 5px;
+  display: inline-block;
+  margin: 50px;
+  background-color: rgba(10, 219, 10, 0.406);
+}
+.row{
+  display: inline-block;
+}
+.edit{
+  margin-left: 150px;
+  margin-top: 10px;
+}
+.btn1{
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.filter{
+  display: inline-block;
+  font-size: 30px;
+  margin-left: 67%;
+  font-weight: 600;
+}
+.select{
+  height: 40px;
+  background-color: orange;
+  border: 0px;
+  border-radius: 5px;
+  font-size: large;
+  font-weight: 600;
+}
+.select1{
+  margin-left:10px;
+}
